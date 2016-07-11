@@ -1,0 +1,15 @@
+{
+  "name": "fcc-metadata",
+  "version": "1.0.0",
+  "decription": "Free Code Camp Metadata",
+  "author": "Brice Colucci <brice.colucci@gmail.com>",
+  "private": true,
+  "scripts": {
+    "start": "./node_modules/.bin/nf start"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "foreman": "^1.4.1",
+    "multer": "^1.1.0"
+  }
+}
