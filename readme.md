@@ -11,6 +11,7 @@
 ## How to test
 
     git clone https://github.com/bcolucci/fcp-metadata.git \
+      && cd fcp-metadata \
       && npm install \
       && npm start \
       && xdg-open http://localhost:3210/
